@@ -1,2 +1,2 @@
 <?php
-echo "Bem vindo!";
+echo "Lapis";
